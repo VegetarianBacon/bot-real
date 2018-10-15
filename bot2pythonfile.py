@@ -7,7 +7,7 @@ import re
 
 
 BOT_PREFIX = (">")
-TOKEN = "NDk2MTA0NzM1NzI0Nzk3OTUy.DpLxww.wY7_uByctGNJ3hziF7j1rmNvMhE"
+TOKEN = "no lmao"
 
 
 
